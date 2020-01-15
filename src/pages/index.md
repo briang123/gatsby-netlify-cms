@@ -30,7 +30,7 @@ intro:
         We offer a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level. No matter if you roast your
         own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        to fall in love with our shop.
     - image: /img/tutorials.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
@@ -68,3 +68,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
